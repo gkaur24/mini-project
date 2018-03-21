@@ -1,2 +1,2 @@
 # mini-project
-mini side proj in work
+mini side proj in works
